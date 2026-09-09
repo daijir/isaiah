@@ -81,4 +81,9 @@
 （※パッカー会長は、イザヤ書を読まなければモルモン書を本当に読んだことにはならない、そこにはキリストの贖いと終わりの時の大いなる約束が刻まれているからである、と教えています）  
 — **ボイド・K・パッカー会長** (*Ensign*, “The Things of Which I Have Spoken”)
 
----
+---　
+
+## 参考資料
+
+Isaiah: Prophet, Seer, Poet - (Japanese) ビクター・L・ルドロウ 著 / 黒木豊域 訳
+- [Isaiah: Prophet, Seer, Poet - (Japanese)](https://www.deseretbook.com/product/6026694.html?srsltid=AfmBOoqKg7boFursLtGXY0z_j4IuMElMyhHKVucMBJwRE71BaDegbwMH)
