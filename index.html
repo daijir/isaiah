@@ -108,7 +108,14 @@
         buttonText: 'コピー',
         errorText: 'エラー',
         successText: 'コピー完了'
-      }
+      },
+      plugins: [
+        function(hook, vm) {
+          hook.beforeEach(function(content) {
+            return content.replace(/>\s*###\s*(?:📖\s*)?Webサイト版のご案内[\s\S]*?(?=\r?\n\s*---|\r?\n\s*##|$)/g, '');
+          });
+        }
+      ]
     }
   </script>
   <!-- Docsify v4 -->
