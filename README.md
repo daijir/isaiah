@@ -88,9 +88,19 @@
 （※パッカー会長は、イザヤ書を読まなければモルモン書を本当に読んだことにはならない、そこにはキリストの贖いと終わりの時の大いなる約束が刻まれているからである、と教えています）  
 — **ボイド・K・パッカー会長** (*Ensign*, “The Things of Which I Have Spoken”)
 
----　
+---
 
-## 参考資料
+## 参考資料・参考文献
 
-Isaiah: Prophet, Seer, Poet - (Japanese) ビクター・L・ルドロウ 著 / 黒木豊域 訳
-- [Isaiah: Prophet, Seer, Poet - (Japanese)](https://www.deseretbook.com/product/6026694.html?srsltid=AfmBOoqKg7boFursLtGXY0z_j4IuMElMyhHKVucMBJwRE71BaDegbwMH)
+本研究ノートの執筆・考察にあたって参照している主な注釈書、教会公式教材、および研究論文です。  
+👉 **各章ごとの公式指導書・学術論文の無料公開URL一覧は [reference.md](reference.md) に集約しています。**
+
+### 注釈書・研究書
+- **『イザヤ―預言者、先見者、詩人』（日本語版）**  
+  ビクター・L・ルドロウ（Victor L. Ludlow）著 / 黒木豊域 訳（Deseret Book）  
+  [商品ページ（Deseret Book）](https://www.deseretbook.com/product/6026694.html?srsltid=AfmBOoqKg7boFursLtGXY0z_j4IuMElMyhHKVucMBJwRE71BaDegbwMH)
+
+### 教会公式教材・指導書
+- **『旧約聖書 生徒用指導書（Religion 301-302）』** 末日聖徒イエス・キリスト教会
+- **『モルモン書 生徒用指導書（Religion 121-122）』** 末日聖徒イエス・キリスト教会
+- **聖書辞書（Bible Dictionary: BD） / 聖句ガイド（Topical Guide: TG）** 末日聖徒イエス・キリスト教会英語版聖書付録
