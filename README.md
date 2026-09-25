@@ -7,7 +7,6 @@
 > Webサイト版を公開しています。ブラウザから快適に閲覧いただけます。  
 > 
 > [![Web版で読む](https://img.shields.io/badge/Web%E7%89%88%E3%81%A7%E8%AA%AD%E3%82%80-daijir.github.io%2Fisaiah-2c5282?style=for-the-badge&logo=github&logoColor=white)](https://daijir.github.io/isaiah/)  
-> 👉 **[https://daijir.github.io/isaiah/](https://daijir.github.io/isaiah/)**
 
 ---
 
